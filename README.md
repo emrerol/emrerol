@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 📝 I create contents on **[https://emrerolblog.vercel.app]**(https://emrerolblog.vercel.app)
+- 📝 I create contents on [**emrerolblog**](https://emrerolblog.vercel.app)
 
 - 📫 How to reach me **erolemrecan@outlook.com**
 
