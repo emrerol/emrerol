@@ -5,7 +5,9 @@
 
 - 📝 I create contents on [**emrerolblog**](https://emrerolblog.vercel.app)
 
-- 📫 How to reach me **erolemrecan@outlook.com**
+- 📫 You can reach me **erolemrecan@outlook.com**
+
+- 🏢 Interest in Internship on Web Development
 
 - 📄 My [CV](https://dl.dropboxusercontent.com/s/xr59biryh8d542l/EmreCanErolCv.pdf?dl=0)
 
