@@ -7,7 +7,7 @@
 
 - 📫 You can reach me **erolemrecan@outlook.com**
 
-- 🏢 Interest in Internship on Web Development
+- 🏢 Looking for an internship on Web Development
 
 - 📄 My [CV](https://dl.dropboxusercontent.com/s/xr59biryh8d542l/EmreCanErolCv.pdf?dl=0)
 
