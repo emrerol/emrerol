@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emre Can Erol</h1>
 <h3 align="center">I'am a Computer Engineering Student</h3>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently working on **ReactJs**
 
 - 📝 I create contents on [**emrerolblog**](https://emrerolblog.vercel.app)
 
