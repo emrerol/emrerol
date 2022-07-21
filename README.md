@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am <span> **Emre** </span></h1>
+<h1 align="center">Hi 👋, I am <span> Emre </span></h1>
 <h3 align="center">I'm a Computer Engineering Student</h3>
 
 - I’m currently working on **Frontend Technologies**
