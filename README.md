@@ -3,11 +3,8 @@
 
 - 🌱 I’m currently working on **ReactJs**
 
-- 📝 I create contents on [**emrerolblog**](https://emrerolblog.vercel.app)
-
 - 📫 You can reach me **erolemrecan@outlook.com**
 
-- 📄 My [CV](https://dl.dropboxusercontent.com/s/xr59biryh8d542l/EmreCanErolCv.pdf?dl=0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
