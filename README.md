@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emre Can Erol</h1>
 <h3 align="center">I'm a Computer Engineering Student</h3>
 
-- 🌱 I’m currently working on **ReactJs**
+- 🌱 I’m currently working on **Frontend Technologies**
 
 - 📫 You can reach me **erolemrecan@outlook.com**
 
