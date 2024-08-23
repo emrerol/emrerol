@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Emre</h1>
-<h3 align="center">I'm a Computer Engineering Student</h3>
+<h3 align="center">I'm a SOC Analyst and Computer Engineering Student</h3>
 
 - **Cybersecurity**
 
