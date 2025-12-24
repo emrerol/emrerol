@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I am Emre</h1>
-<h3 align="center">I'm a SOC Analyst and Computer Engineering Student</h3>
+<h3 align="center">Cyber Security Analyst</h3>
 
-- **Cybersecurity**
-
-- You can reach me **erolemrecan@outlook.com**
+- **Cybersecurity*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
